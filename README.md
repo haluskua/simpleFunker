@@ -32,7 +32,7 @@ The client will be available on http://localhost:8080 and the server on http://l
 
 To include redux
 
-Add dependecies\_ below:
+Add dependecies and more desc with config file
 
 @
 @
